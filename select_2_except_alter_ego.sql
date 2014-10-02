@@ -1,0 +1,1 @@
+SELECT * FROM superheroes EXCEPT alter_ego;
